@@ -6,5 +6,5 @@
     { author: "garagegames", label: "Micro96", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/Micro96.zip", desc: "Terminal shell, 56kb" },
     { author: "ivo9990", label: "tiny96", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/tiny96.zip", desc: "176kb version" },
     { author: "themetalshard", label: "Windows 2096", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/w2096.zip", desc: "Windows 2000 recreation" },
-    { author: "kelbaz", label: "Onofficiel Windows 96", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/onofficiel.zip", desc: "Windows 96 + Border browser and extra goodies" },
+    { author: "kelbaz", label: "Onofficiel Windows 96", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/onofficiel.zip", desc: "Windows 96 + Border browser and extra goodies" }
 ]
