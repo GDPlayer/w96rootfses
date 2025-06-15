@@ -1,5 +1,5 @@
 [
-    { "author": "Windows 96", "label": "Vanilla RootFS", "file": "https://raw.githubusercontent.com/GDPlayer/w96rootfses/main/rootfs.zip", "desc": "The default W96 experience" },
+    { "author": "Windows 96", "label": "Vanilla RootFS", "file": "https://raw.githubusercontent.com/GDPlayer/w96rootfses/main/vanilla.zip", "desc": "The default W96 experience" },
     { "author": "gdplayer.1035", "label": "t96 v4.1", "file": "https://raw.githubusercontent.com/GDPlayer/w96rootfses/main/t96v4.1.zip", "desc": "t96 Useable Update, 26kb" },
     { "author": "gdplayer.1035", "label": "t96 v2", "file": "https://raw.githubusercontent.com/GDPlayer/w96rootfses/main/t96v2.zip", "desc": "Older t96 version with no extra goodies, 17kb" },
     { "author": "gdplayer.1035", "label": "Windows97", "file": "https://raw.githubusercontent.com/GDPlayer/w96rootfses/main/w97.zip", "desc": "Windows 98 recreation" },
