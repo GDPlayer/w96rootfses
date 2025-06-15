@@ -1,0 +1,10 @@
+[
+    { author: "Windows 96", label: "Vanilla RootFS", file: "$https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/rootfs.zip", desc: "The default W96 experience" },
+    { author: "gdplayer.1035", label: "t96 v4.1", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/t96v4.1.zip", desc: "t96 Useable Update, 26kb" },
+    { author: "gdplayer.1035", label: "t96 v2", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/t96v2.zip", desc: "Older t96 version with no extra goodies, 17kb" },
+    { author: "gdplayer.1035", label: "Windows97", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/w97.zip", desc: "Windows 98 recreation" },
+    { author: "garagegames", label: "Micro96", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/Micro96.zip", desc: "Terminal shell, 56kb" },
+    { author: "ivo9990", label: "tiny96", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/tiny96.zip", desc: "176kb version" },
+    { author: "themetalshard", label: "Windows 2096", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/w2096.zip", desc: "Windows 2000 recreation" },
+    { author: "kelbaz", label: "Onofficiel Windows 96", file: "https://github.com/GDPlayer/w96rootfses/raw/refs/heads/main/onofficiel.zip", desc: "Windows 96 + Border browser and extra goodies" },
+]
